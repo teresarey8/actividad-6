@@ -1,6 +1,6 @@
-alert("A continuación se solicitaran dos números")
 
 function calcular() {
+    alert("A continuación se solicitaran dos números")
     let num1 = parseInt(prompt("Ingrese el primer número:"));
     let num2 = parseInt(prompt("Ingrese el segundo número:"));
 
